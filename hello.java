@@ -4,5 +4,7 @@ public class hello
 	{
 		System.out.println("hello from master branch\n");
 		System.exit(0);
+		System.out.println("hello from branch1\n");
+		System.exit(0);
 	}
 }
