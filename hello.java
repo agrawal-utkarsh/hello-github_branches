@@ -6,5 +6,7 @@ public class hello
 		System.exit(0);
 		System.out.println("hello from branch1\n");
 		System.exit(0);
+		System.out.println("hello from branch2\n");
+		System.exit(0);
 	}
 }
